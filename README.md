@@ -1,5 +1,5 @@
 # OpenA0
-### No BS, Blazing Fast, Censorship-resistant VPNs
+### No BS, Blazing Fast, Censorship-resistant VPN
 ---
 Welcome to the OpenA0 VPNs General Discussion and Issues Page.
 
